@@ -1,0 +1,64 @@
+{
+    "roles": [
+        {
+            "tag": "admin",
+            "name": "Admin",
+            "id": "689771887638741022",
+            "description": "Owner of the server",
+            "color": "orange"
+        },
+        {
+            "tag": "moderator",
+            "name": "Moderator",
+            "id": "689772166643843119",
+            "description": "Moderator of the server, can: ban, kick, delete messages, ecc",
+            "color": "green"
+        },
+        {
+            "tag": "bot",
+            "name": "Bot",
+            "id": "690545822151999508",
+            "description": "Manages commands",
+            "color": "lightGrey"
+        },
+        {
+            "tag": "androidDev",
+            "name": "Android developer",
+            "id": "689776280736235533",
+            "description": "The person is developing Android apps",
+            "color": "blue",
+            "projects": ["fabCatApp", "fabMap"]
+        },
+        {
+            "tag": "webDev",
+            "name": "Web developer",
+            "id": "690609705319399475",
+            "description": "The person is developing websites",
+            "color": "blue",
+            "projects": ["serverPrint3d"]
+        },
+        {
+            "tag": "arduinoDev",
+            "name": "Arduino developer",
+            "id": "690609394265882725",
+            "description": "The person is developing Arduino projects",
+            "color": "blue",
+            "projects": ["fabCat"]
+        },
+        {
+            "tag": "maker",
+            "name": "Maker",
+            "id": "690953115817738250",
+            "description": "Digital artisan",
+            "color": "red",
+            "projects": ["arcade"]
+        },
+        {
+            "tag": "guest",
+            "name": "Guest",
+            "id": "691005578230628373",
+            "description": "Someone who just joined the server",
+            "color": "yellow"
+        }
+    ]
+}

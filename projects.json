@@ -1,0 +1,29 @@
+{
+    "projects": [
+        {
+            "tag": "fabCat",
+            "name": "FabCat",
+            "id": "690611593045868626"
+        },
+        {
+            "tag": "fabMap",
+            "name": "FabMap",
+            "id": "690611673655935056"
+        },
+        {
+            "tag": "fabCatApp",
+            "name": "FabCatApp",
+            "id": "690611634686656582"
+        },
+        {
+            "tag": "serverPrint3d",
+            "name": "Server stampa 3d",
+            "id": "690611710494769234"
+        },
+        {
+            "tag": "arcade",
+            "name": "Bartop arcade",
+            "id": "690953440867778692"
+        }
+    ]
+}

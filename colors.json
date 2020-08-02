@@ -1,0 +1,28 @@
+{
+    "colors": [
+        {
+            "tag": "orange",
+            "color": [255, 77, 0]
+        },
+        {
+            "tag": "green",
+            "color": [0, 255, 0]
+        },
+        {
+            "tag": "red",
+            "color": [255, 77, 0]
+        },
+        {
+            "tag": "yellow",
+            "color": [255, 239, 0]
+        },
+        {
+            "tag": "lightGrey",
+            "color": [173, 173, 173]
+        },
+        {
+            "tag": "blue",
+            "color": [0, 0, 255]
+        }
+    ]
+}
