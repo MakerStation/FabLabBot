@@ -18,7 +18,7 @@ var roleIds = {};
 var roleNames = {};
 var roleDescriptions = {};
 var roleProjects = {};
-var roleColors = {}
+var roleColors = {};
 
 for(let i=0;i<roles.length;i++) {
     roleIds[roles[i].tag] = roles[i].id;
