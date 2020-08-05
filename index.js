@@ -3,9 +3,6 @@ const bot = new Discord.Client();
 
 const {
 	wrongCommand,
-} = require('./functions');
-
-const {
 	role,
 } = require('./functions');
 
